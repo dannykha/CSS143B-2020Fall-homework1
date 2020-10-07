@@ -4,6 +4,8 @@ import static org.junit.Assert.*;
 
 public class Problem2Test {
 
+    private Problem2 sorter = new Problem2();
+
     // Example test
     // Okay to change
     @Test
